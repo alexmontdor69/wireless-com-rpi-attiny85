@@ -14,19 +14,16 @@ Physical Transmission Pins : 2(TX) and 3(RX)
 
 ### GT38
 Serial communication would be:
-
-Baud
+xxx Baud
 
 
 
 
 
 ## Devices
-Raspberry PI Zero W
-- GPIO\r
-
-Attiny 85
-
-GT38
+. Raspberry PI Zero W
+- GPIO
+. Attiny 85
+. GT38
 
 
