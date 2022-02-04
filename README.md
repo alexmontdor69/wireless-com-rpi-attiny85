@@ -4,7 +4,7 @@ Test the serial communication between a Raspberry Pi Zero W and attiny85. The pr
 
 ## Configuration
 Each Devices need to be setup
-### Raspeberry PI Zero W
+### Raspberry PI Zero W
 Set GPIO to 1 (ref : )
 Use the Serial module (physical pin 8 (TX) and 10 (RX) on the GPIO) and power the serial device communicator at 3.3V (apparently this is the optimal voltage)
 
